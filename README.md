@@ -53,6 +53,8 @@ Pairplots: Explore relationships between all variables at once.
 Heatmaps: Visualize correlations.
 Custom visualizations for more intuitive insights (e.g., donut charts, word clouds).
 
+---
+
 
 ## 🛠️ Technologies Used
 Python
@@ -61,6 +63,8 @@ Visualization: matplotlib, seaborn
 Statistical Analysis: scipy, statsmodels
 Feature Engineering: sklearn
 Jupyter Notebook: Step-by-step EDA process.
+
+---
 
 
 
@@ -71,6 +75,8 @@ Histograms
 Scatter plots
 Heatmaps
 Boxplots
+
+---
 
 
 ## 📊 Results and Summary
